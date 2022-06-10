@@ -2,7 +2,7 @@
 	font-size: 30px;
 }
 h1 {
-	color: black;
+	color: white;
 	background-color: lightskyblue;
 	margin-bottom: 25px;
 	text-align: center;
@@ -11,7 +11,7 @@ h1 {
 	font-size: 15px;
 }
 a:link, a:visited{
-	color: red;
+	color: deepink;
 }
 a:hover, a:active {
 	font-style: italic;
